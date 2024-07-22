@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "nome": "Notebook Acer Aspire 5",
+        "marca": "Acer",
+        "categoria": "Informática",
+        "preco": 3499.99,
+        "quantidade_estoque": 15,
+        "disponivel_pronta_entrega": true
+    },
+    {
+        "id": 2,
+        "nome": "Smartphone Samsung Galaxy S20",
+        "marca": "Samsung",
+        "categoria": "Eletrônicos",
+        "preco": 4299.00,
+        "quantidade_estoque": 8,
+        "disponivel_pronta_entrega": false
+    },
+    {
+        "id": 3,
+        "nome": "Fone de Ouvido Sony WH-1000XM4",
+        "marca": "Sony",
+        "categoria": "Áudio",
+        "preco": 1999.90,
+        "quantidade_estoque": 20,
+        "disponivel_pronta_entrega": true
+    }
+]
